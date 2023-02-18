@@ -4,4 +4,11 @@ Electron is a framework to develop web based desktop apps. It enables developers
 
 Electron supports various technologies like NodeJs, Angular, Aasp.net Blazor, etc. to develop applications.
 
-A powerpoint presentation is also available above to download and know more about Electron. This PPT contains this tutorial as a presentation which can be used as reference. Those who want all the content of this tutorial in one place can also use this PPT file.
+A powerpoint presentation is also available above to download providing reference to those who like to read.
+
+This tutorial contains many chapters available as branches in this repository. Each branch contains material related to a particular subject. Go through each chapter to get thorough understanding.
+
+- Chapter 01: Introduction
+- Chapter 02: Why to use electron?
+- Chapter 03: How electron works
+- Chapter 04: 
