@@ -8,6 +8,7 @@ A powerpoint presentation is also available above to download providing referenc
 
 This tutorial contains many chapters available as branches in this repository. Each branch contains material related to a particular subject. Go through each chapter to get thorough understanding.
 
+### Following is the list of chapters and topics being covered in that chapter:
 - Chapter 01: Introduction
 - Chapter 02: Why to use electron?
 - Chapter 03: How electron works
